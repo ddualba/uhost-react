@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/uhost-react/static/css/main.f67479ef.chunk.css",
+    "main.js": "/uhost-react/static/js/main.5235797b.chunk.js",
+    "main.js.map": "/uhost-react/static/js/main.5235797b.chunk.js.map",
+    "runtime-main.js": "/uhost-react/static/js/runtime-main.ed04a3e3.js",
+    "runtime-main.js.map": "/uhost-react/static/js/runtime-main.ed04a3e3.js.map",
+    "static/js/2.ff2a5e9a.chunk.js": "/uhost-react/static/js/2.ff2a5e9a.chunk.js",
+    "static/js/2.ff2a5e9a.chunk.js.map": "/uhost-react/static/js/2.ff2a5e9a.chunk.js.map",
+    "index.html": "/uhost-react/index.html",
+    "static/css/main.f67479ef.chunk.css.map": "/uhost-react/static/css/main.f67479ef.chunk.css.map",
+    "static/js/2.ff2a5e9a.chunk.js.LICENSE.txt": "/uhost-react/static/js/2.ff2a5e9a.chunk.js.LICENSE.txt",
+    "static/media/fast.699c6ed9.svg": "/uhost-react/static/media/fast.699c6ed9.svg",
+    "static/media/Home.scss": "/uhost-react/static/media/freedom.c88430a4.jpg",
+    "static/media/Packages.scss": "/uhost-react/static/media/plans-background.f4f158a2.jpg",
+    "static/media/trust.cf9a5334.svg": "/uhost-react/static/media/trust.cf9a5334.svg",
+    "static/media/uptime.e6829146.svg": "/uhost-react/static/media/uptime.e6829146.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed04a3e3.js",
+    "static/js/2.ff2a5e9a.chunk.js",
+    "static/css/main.f67479ef.chunk.css",
+    "static/js/main.5235797b.chunk.js"
+  ]
+}
